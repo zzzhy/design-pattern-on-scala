@@ -9,7 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>_1iterator</module>
+        <module>ch1_iterator</module>
+        <module>ch1_adapter</module>
     </modules>
 
     <dependencyManagement>

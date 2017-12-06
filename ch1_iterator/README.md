@@ -8,4 +8,4 @@
 一个具体集合
 
 迭代器模式类图:
-![deploy](asset/iterator.png)
+![deploy](assert/iterator.png)

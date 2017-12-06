@@ -1,9 +1,14 @@
 package io.wetoo.adapter
 
-class Computer{
+/**
+  * @author zzzhy
+  *         2017-12-01
+  */
 
-  def charge(charge: Charge): Unit = {
-    charge.v12Plugin()
+class Computer(c: ThreeHubCharge) {
+
+  def charge(): Unit = {
+    c.connectTo()
   }
 
 }

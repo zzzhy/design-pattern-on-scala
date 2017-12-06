@@ -1,4 +1,4 @@
-package io.wetoo.adapter.extend
+package io.wetoo.adapter
 
 trait AdapterChargeable {
 
